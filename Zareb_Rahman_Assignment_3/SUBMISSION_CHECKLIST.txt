@@ -1,0 +1,32 @@
+EECS 348 Assignment 3 - Submission Checklist
+
+REPOSITORY NAME:
+Fall2026_EECS348_Assignment_3
+
+FOLDER NAME INSIDE REPOSITORY:
+Zareb_Rahman_Assignment_3
+
+FILES READY NOW:
+- Assignment3.cpp
+- Makefile
+- sample_test.txt
+- GenAI_Analysis.pdf
+
+STILL REQUIRED FOR A FULL SUBMISSION:
+- Compile Assignment3.cpp on the KU Cycle server or an EECS lab machine.
+- Put the resulting executable named Assignment3 in this folder.
+
+ON CYCLE / LAB MACHINE:
+1. cd into Zareb_Rahman_Assignment_3
+2. Run: make
+3. Run: ./Assignment3 sample_test.txt
+4. Make sure the sample output is correct.
+5. Run: git add .
+6. Run: git commit -m "Complete Assignment 3"
+7. Run: git push
+
+FINAL CANVAS SUBMISSION:
+Submit the PUBLIC GitHub repository URL for:
+Fall2026_EECS348_Assignment_3
+
+Before submitting, make sure the repository is public and the files above are visible.
